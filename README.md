@@ -3,6 +3,14 @@
 
 # TEAM 16, WE ARE THE CHAMPION !!!
 
+# Video Link
+
+- **Evaluation of functionality:** [**https://youtu.be/02jUuSZZPl0**](https://youtu.be/02jUuSZZPl0)
+
+- **Final competition:** [**https://youtu.be/HylkRfzkrz0**](https://youtu.be/HylkRfzkrz0)
+
+- **Compete Competition recording** at [GRASP Lab Youtube Channel.](https://www.youtube.com/watch?v=Pt5Qd4mry5I&t=9516s)
+
 ![img](https://lh7-us.googleusercontent.com/kso3s3ZOTSkDRWEmCr_BuxCN1hRN8cCMBc-IBTjwY6mCad-0vZBEvTp-5VF1_J__OXvqRH4qTnFc4vNTRj7JempvYU3lOWIPEN8whSWlSbLr5aXfciFHOGMTb-zxrdi5ayFF7ny3VXRjsk00saTfRgI)
 
 ---
@@ -71,10 +79,3 @@ Two infrared sensors are placed at the front of the vehicle, each isolated with 
 
 - **Battery(4s Lipo):**[**Amazon.com: HRB 4S 3300mAh Lipo Battery 60C 14.8V RC Lipo Battery Pack with XT60 Plug for RC Airplane, RC Helicopter, RC Car, RC Truck, RC Boat (EC3/Deans/TR/Tamiya) : Toys & Games**](https://www.amazon.com/dp/B06XKWFPRZ?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
-# Video Link
-
-- **Evaluation of functionality:** [**https://youtu.be/02jUuSZZPl0**](https://youtu.be/02jUuSZZPl0)
-
-- **Final competition:** [**https://youtu.be/HylkRfzkrz0**](https://youtu.be/HylkRfzkrz0)
-
-- **Compete Competition recording** at [GRASP Lab Youtube Channel.](https://www.youtube.com/watch?v=Pt5Qd4mry5I&t=9516s)
