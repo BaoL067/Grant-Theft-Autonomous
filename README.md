@@ -1,5 +1,5 @@
 # Grant Theft Autonomous 2023 
- This repository contains the source code for the annual competition of MEAM 510.
+ This repository contains the source code for the annual competition of Design of Mechatronic Systems.
 
 # TEAM 16, WE ARE THE CHAMPION !!!
 
